@@ -40,10 +40,19 @@ I'm a recent graduate in Digital Development, specializing in Web Full Stack Dev
 
 My projects will be added here soon. Stay tuned!
 
+
 ### 📫 Connect with Me
 
-- GitHub: [@kha-dija06](https://github.com/kha-dija06)
-- LinkedIn: Add your LinkedIn profile link here
+<p align="left">
+  <a href="https://github.com/kha-dija06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="www.linkedin.com/in/khadija-elabdellaoui-73348b34b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+I'm open to junior developer opportunities, internships, and collaboration on web development projects.
 
 ---
 
